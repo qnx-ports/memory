@@ -3,4 +3,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 build
+build_qnx
+qnx_patches
 .vscode
